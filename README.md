@@ -10,7 +10,7 @@
 **74.** 鈦鉚釘剪力強度為每平方吋 65,000 磅，鉚釘頭記號為？  
 (1)中央為一圓環 (2)中央為一凹三角形 (3)中央有兩頭凸痕 (4)由一大一小兩凹點所組成  
 *A titanium rivet has a shear strength of 65,000 psi. Its head marking is:*  
-*(1) a ring at the center (2) a recessed triangle at the center (3) two raised marks at the center (4) one large and one small dimple*  
+*(1) a ring at the center  (2) a recessed triangle at the center  (3) two raised marks at the center  (4) one large and one small dimple*  
 **答：** (4) 由一大一小兩凹點所組成  
 **Ans:** (4) One large and one small dimple
 
